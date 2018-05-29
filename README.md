@@ -19,16 +19,16 @@ Change the game to follow these rules:
 
 
 
-# The Complete Javascript Course 
-###### tags: `javascript`,`Udemy`,`Note`,`The Complete JavaScript Course`
+
+#  [Udemy][Javascript]The Complete JavaScript Course 2018 by Jonas Schmedtmann
 
 ## JavaScript in the Browser: DOM Manipulation and Events
 
 ### The DOM and DOM Manipulation
-> DOM: Document Object Model
-> Structured representation of an HTML document;
-> The DOM is used to connect webpages to script like JavaScript
-> For each HTML box, there is an object that is the DOM that we can access and interaction with.
+* DOM: Document Object Model
+* Structured representation of an HTML document;
+* The DOM is used to connect webpages to script like JavaScript
+* For each HTML box, there is an object that is the DOM that we can access and interaction with.
 ### First DOM Access and Manipulation
 #### Set scores for each player 
 ```
